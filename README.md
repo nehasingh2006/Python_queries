@@ -1,1 +1,1 @@
-# SQL_Queries
+# Python_queries
